@@ -1,0 +1,20 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Buhality/app/src/main/res/drawable/buttonshape.xml" value="0.1945" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Buhality/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Buhality/app/src/main/res/layout/buhariki_item.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Buhality/app/src/main/res/layout/vivod_item.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Buhality/app/src/main/res/layout/vvod2_item.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Buhality/app/src/main/res/layout/vvod_item.xml" value="0.14719202898550723" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

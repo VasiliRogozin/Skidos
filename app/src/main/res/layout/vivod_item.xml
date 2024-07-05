@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:id="@+id/id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="60sp"
+            android:textSize="40sp"
+            android:textColor="@color/mygreen"
+            android:text="0"
+            />
+
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/id"
+            android:minHeight="60sp"
+            android:textSize="20sp"
+            android:hint="Имя"
+            />
+
+        <EditText
+            android:id="@+id/mony"
+            android:layout_toLeftOf="@id/rez"
+            android:layout_width="80sp"
+            android:layout_height="wrap_content"
+            android:minHeight="60sp"
+            android:textSize="20sp"
+            android:inputType = "numberDecimal"
+            android:hint="000"
+            />
+
+        <TextView
+            android:id="@+id/rez"
+            android:layout_width="80sp"
+
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+
+            android:layout_centerInParent="true"
+            android:minHeight="60sp"
+            android:text="1000"
+            android:textSize="17sp" />
+    </RelativeLayout>
+</RelativeLayout>
